@@ -1,0 +1,79 @@
+> 실행컨텍스트(Execution Context)
+자바스크립트가 실행되는 환경. 식별자 결정을 더 효율적으로 하기 위한 수단
+
+
+스코프 vs 실행컨텍스트
+
+
+```
+var a = 10;
+
+function func1() {
+	console.log("func1 실행");
+    
+    function func2() {
+    	console.log("func2 실행");
+    }
+    func2();
+}
+func1()
+```
+
+
+
+
+
+global execution context: 무조건 1개만 생성(자바스크립트는 싱글 쓰레드이기 때문)
+function/block: 함수/블록 단위로 생성
+script
+local
+자바스크립트는 컴파일언어
+
+
+
+실행순서: 
+1) 생성 단계 (Creation Phase)
+Execution Context 생성
+선언문만 실행해서 Environment Record에 기록
+2) 실행 단계 (Execution Phase)
+Environment Record를 참조하거나 업데이트
+
+*참고
+변수 호이스팅
+var 키워드: 선언(메모리 공간 확보 및 식별자와 연결)과 초기화(암묵적 값 undefined 바인딩)가 동시에 진행
+let, const 키워드: 선언(메모리 공간 확보 및 식별자와 연결)만 진행
+
+함수 표현식 = 변수 호이스팅과 동일하게 동작
+```
+study(); // reference error
+
+const study = () => {
+	console.log('do study');
+}
+
+study(); // type error
+
+var study = () => {
+	console.log('do study');
+}
+
+```
+
+함수 호이스팅
+```
+study(); // do study 문제없이 출력
+
+function study() {
+	console.log('do study');
+}
+```
+왜? 
+함수 선언문 때문에 => 선언과 동시에 함수가 생성되어 선언전에도 함수를 사용할 수 있음
+
+
+![](https://velog.velcdn.com/images/yuni/post/47cdc5d7-bdf4-4d40-b7a7-26dff46c717b/image.png)
+
+
+
+외부 환경 참조
+
