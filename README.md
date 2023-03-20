@@ -41,3 +41,22 @@
 엄윤주: 실행컨텍스트 </br>
 김희산: 브라우저 렌더링 과정  </br>
 성치호: 브라우저 저장소 (로컬 스토리지, 세션 스토리지, 쿠키의 차이)
+
+
+</br>
+
+
+## 3월 20일
+#### 20일 발표주제 발표
+
+김희산 -  https://substantial-eoraptor-be9.notion.site/3-20-904d3fdf58844702ad43bfc96c817cde
+정서린 - https://www.notion.so/0320_this-1b2d8fe49c69492d90ce7c316ba87cc2
+엄윤주 - https://velog.io/@yuni/Execution-Context-%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8
+성치호 - https://chihoya.tistory.com/15
+
+#### 24일 발표 주제 선정
+
+엄윤주 - Restful API (GET, PUT, POST, PATCH, OPTION, DELETE)
+김희산 - git
+정서린 - 자바스크립트 비동기 처리(callback, promise, async/await) & promise와 async/await의 차이점
+성치호 - 깊은 복사 & 얕은 복사
