@@ -56,7 +56,7 @@
 
 #### 24일 발표 주제 선정
 
-엄윤주 - Restful API (GET, PUT, POST, PATCH, OPTION, DELETE)
-김희산 - git
-정서린 - 자바스크립트 비동기 처리(callback, promise, async/await) & promise와 async/await의 차이점
-성치호 - 깊은 복사 & 얕은 복사
+엄윤주 - Restful API (GET, PUT, POST, PATCH, OPTION, DELETE) </br>
+김희산 - git </br> 
+정서린 - 자바스크립트 비동기 처리(callback, promise, async/await) & promise와 async/await의 차이점 </br>
+성치호 - 깊은 복사 & 얕은 복사 </br>
