@@ -60,3 +60,17 @@
 김희산 - git </br> 
 정서린 - 자바스크립트 비동기 처리(callback, promise, async/await) & promise와 async/await의 차이점 </br>
 성치호 - 깊은 복사 & 얕은 복사 </br>
+
+
+</br>
+## 3월 22일
+#### 17일 조원들이 공유해준 자료를 바탕으로 한 추가 스터디
+
+**엄윤주** </br>
+자바스크립트 작동원리, 이벤트 루프,  마이크로태스크 큐 & 태스크 큐 차이점, promise와 setTimeout우선순위</br>
+https://www.notion.so/JS-Promise-setTimeout-e51ca069bea3456f9f8a2a5f565f89e5</br>
+var, let, const의 차이점</br>
+https://velog.io/@yuni/JS-var-let-const-%EB%B3%80%EC%88%98-%ED%82%A4%EC%9B%8C%EB%93%9C</br>
+호이스팅<br>
+https://velog.io/@yuni/JS-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85
+
