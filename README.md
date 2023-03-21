@@ -78,6 +78,7 @@ https://velog.io/@yuni/JS-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85
 </br>
 
 **김희산** </br>
+클로저, 호이스팅, var, let, const의 차이점
 https://substantial-eoraptor-be9.notion.site/3-17-b979d8d8ae82425cb61a49358a4a319e 
 
 </br>
