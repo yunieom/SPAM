@@ -65,7 +65,7 @@
 </br>
 
 ## 3월 22일
-#### 17일 발표 공유받은 자료를 바탕으로 한 개별 스터디 제출
+#### 3월 17일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
 
 **엄윤주** </br>
 자바스크립트 작동원리, 이벤트 루프,  마이크로태스크 큐 & 태스크 큐 차이점, promise와 setTimeout우선순위</br>
@@ -74,4 +74,11 @@ var, let, const의 차이점</br>
 https://velog.io/@yuni/JS-var-let-const-%EB%B3%80%EC%88%98-%ED%82%A4%EC%9B%8C%EB%93%9C</br>
 호이스팅<br>
 https://velog.io/@yuni/JS-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85
+
+</br>
+
+**김희산** </br>
+https://substantial-eoraptor-be9.notion.site/3-17-b979d8d8ae82425cb61a49358a4a319e 
+
+</br>
 
