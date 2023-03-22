@@ -81,4 +81,13 @@ https://velog.io/@yuni/JS-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85
 https://substantial-eoraptor-be9.notion.site/3-17-b979d8d8ae82425cb61a49358a4a319e 
 
 </br>
+**정서린** </br>
+클로저, 호이스팅, 자바스크립트 작동원리, 이벤트 루프,  마이크로태스크 큐 & 태스크 큐 차이점, promise와 setTimeout우선순위</br>
+https://accurate-baker-e9f.notion.site/0317_-06684f8dcd3f46389911543edfd09f6a
 
+</br>
+**성치호** </br>
+클로저, var, let, const의 차이, 자바스크립트 작동원리, 이벤트 루프,  마이크로태스크 큐 & 태스크 큐 차이점, promise와 setTimeout우선순위</br>
+https://chihoya.tistory.com/
+
+</br>
