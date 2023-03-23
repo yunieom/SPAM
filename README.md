@@ -94,6 +94,15 @@ https://chihoya.tistory.com/
 </br>
 
 ## 3월 24일
+
+### 24일 발표주제 발표
+
+정서린 - </br>
+엄윤주 - https://velog.io/@yuni/Network-REST-API-RESTful-API </br>
+성치호 - </br>
+김희산 - </br>
+
+
 #### 3월 20일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
 
 **엄윤주** </br>
@@ -110,13 +119,6 @@ https://accurate-baker-e9f.notion.site/0320_-f82a026bfcca47a487b51a4fb8b9686c
 **성치호** </br>
 
 </br>
-
-### 24일 발표주제 발표
-
-정서린 - </br>
-엄윤주 - https://velog.io/@yuni/Network-REST-API-RESTful-API </br>
-성치호 - </br>
-김희산 - </br>
 
 #### 27일 발표 주제 선정
 
