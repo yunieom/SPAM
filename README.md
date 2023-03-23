@@ -76,8 +76,8 @@
 </br>
 
 **정서린** </br>
-클로저, 호이스팅, 자바스크립트 작동원리, 이벤트 루프,  마이크로태스크 큐 & 태스크 큐 차이점, promise와 setTimeout우선순위</br>
-https://accurate-baker-e9f.notion.site/0317_-06684f8dcd3f46389911543edfd09f6a
+실행컨텍스트, 브라우저 저장소, 브라우저 렌더링 과정</br>
+https://accurate-baker-e9f.notion.site/0320_-f82a026bfcca47a487b51a4fb8b9686c
 </br>
 
 **성치호** </br>
