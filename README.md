@@ -90,3 +90,35 @@ https://accurate-baker-e9f.notion.site/0317_-06684f8dcd3f46389911543edfd09f6a
 클로저, var, let, const의 차이, 자바스크립트 작동원리, 이벤트 루프,  마이크로태스크 큐 & 태스크 큐 차이점, promise와 setTimeout우선순위</br>
 https://chihoya.tistory.com/
 </br>
+
+## 3월 24일
+#### 3월 20일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
+
+**엄윤주** </br>
+</br>
+
+**김희산** </br>
+</br>
+
+**정서린** </br>
+실행컨텍스트, 브라우저 저장소, 브라우저 렌더링 과정</br>
+https://accurate-baker-e9f.notion.site/0320_-f82a026bfcca47a487b51a4fb8b9686c
+</br>
+
+**성치호** </br>
+
+</br>
+
+### 24일 발표주제 발표
+
+정서린 - </br>
+엄윤주 - https://velog.io/@yuni/Network-REST-API-RESTful-API </br>
+성치호 - </br>
+김희산 - </br>
+
+#### 27일 발표 주제 선정
+
+정서린:  </br>
+엄윤주:  </br>
+김희산:  </br>
+성치호:  </br>
