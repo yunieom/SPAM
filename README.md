@@ -105,10 +105,13 @@ https://chihoya.tistory.com/
 #### 3월 20일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
 
 **엄윤주** </br>
-</br>
+브라우저 저장소 </br>
+https://velog.io/@yuni/WEB-Web-Storage-Cookie-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%A0%80%EC%9E%A5%EC%86%8C</br>
+this </br>
+브라우저 렌더링 과정 </br>
 
 **김희산** </br>
-</br>
+https://substantial-eoraptor-be9.notion.site/3-20-904d3fdf58844702ad43bfc96c817cde</br>
 
 **정서린** </br>
 실행컨텍스트, 브라우저 저장소, 브라우저 렌더링 과정</br>
@@ -116,6 +119,13 @@ https://accurate-baker-e9f.notion.site/0320_-f82a026bfcca47a487b51a4fb8b9686c
 </br>
 
 **성치호** </br>
+브라우저의 렌더링 과정</br>
+https://chihoya.tistory.com/23</br>
+this</br>
+https://chihoya.tistory.com/22</br>
+실행컨텍스트</br>
+https://chihoya.tistory.com/21</br>
+
 
 </br>
 
