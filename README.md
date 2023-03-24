@@ -97,10 +97,10 @@ https://chihoya.tistory.com/
 
 #### 24일 발표주제 발표
 
-정서린 - </br>
+정서린 - https://accurate-baker-e9f.notion.site/0324_-cf02fd6f6c324859a8f5b422dfeb301f</br>
 엄윤주 - https://velog.io/@yuni/Network-REST-API-RESTful-API </br>
-성치호 - </br>
-김희산 - </br>
+성치호 - https://chihoya.tistory.com/24</br>
+김희산 - https://substantial-eoraptor-be9.notion.site/3-24-c9e23b321e7e4f4f96372f36d5c50714</br>
 
 #### 3월 20일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
 
@@ -131,7 +131,7 @@ https://chihoya.tistory.com/21</br>
 
 #### 27일 발표 주제 선정
 
-정서린:  </br>
-엄윤주:  </br>
-김희산:  </br>
-성치호:  </br>
+정서린:  SPA & MPA</br>
+엄윤주:  웹 프로토콜 + get, post </br>
+김희산:  CORS</br>
+성치호:  JWT</br>
