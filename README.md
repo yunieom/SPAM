@@ -108,7 +108,9 @@ https://chihoya.tistory.com/
 브라우저 저장소 </br>
 https://velog.io/@yuni/WEB-Web-Storage-Cookie-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%A0%80%EC%9E%A5%EC%86%8C</br>
 this </br>
+https://velog.io/@yuni/JS-this</br>
 브라우저 렌더링 과정 </br>
+https://velog.io/@yuni/WEB-Browser-Rendering-Process</br>
 
 **김희산** </br>
 https://substantial-eoraptor-be9.notion.site/3-20-904d3fdf58844702ad43bfc96c817cde</br>
