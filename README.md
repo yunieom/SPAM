@@ -137,3 +137,19 @@ https://chihoya.tistory.com/21</br>
 엄윤주:  웹 프로토콜 + get, post </br>
 김희산:  CORS</br>
 성치호:  JWT</br>
+
+</br>
+## 3월 27일
+#### 27일 발표주제 발표
+
+김희산 - https://substantial-eoraptor-be9.notion.site/3-27-3e14dc31137844b9af31e9beaebb206f</br>
+정서린 -  </br>
+엄윤주 - https://velog.io/@yuni/WEB-Protocol </br>
+성치호 - https://chihoya.tistory.com/25 
+
+#### 31일 발표 주제 선정
+
+엄윤주 - forEach, Map 차이 </br>
+김희산 - OOP (객체지향프로그램) </br> 
+정서린 - </br>
+성치호 - Axios & Ajax 정의 </br>
