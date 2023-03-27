@@ -126,8 +126,7 @@ https://chihoya.tistory.com/23</br>
 this</br>
 https://chihoya.tistory.com/22</br>
 실행컨텍스트</br>
-https://chihoya.tistory.com/21</br>
-
+https://chihoya.tistory.com/21
 
 #### 27일 발표 주제 선정
 
