@@ -151,3 +151,30 @@ https://chihoya.tistory.com/21
 김희산 - OOP (객체지향프로그램) </br> 
 정서린 - </br>
 성치호 - Axios & Ajax 정의 </br>
+
+## 3월 29일
+#### 3월 24일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
+
+**엄윤주** </br>
+자바스크립트 비동기 처리, promise vs async/await 차이점 </br>
+https://velog.io/@yuni/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC</br>
+깊은 복사 & 얕은 복사</br>
+-</br>
+git<br>
+-
+</br>
+
+**김희산** </br>
+자바스크립트 비동기 처리, promise vs async/await 차이점, RESTful API, 깊은 복사 & 얕은 복사 </br>
+https://substantial-eoraptor-be9.notion.site/3-17-b979d8d8ae82425cb61a49358a4a319e 
+</br>
+
+**정서린** </br>
+git, RESTful API, 깊은 복사 & 얕은 복사 </br>
+https://accurate-baker-e9f.notion.site/0317_-06684f8dcd3f46389911543edfd09f6a
+</br>
+
+**성치호** </br>
+git, promise vs async/await 차이점, RESTful API</br>
+https://chihoya.tistory.com/
+</br>
