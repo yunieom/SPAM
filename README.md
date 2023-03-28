@@ -149,7 +149,7 @@ https://chihoya.tistory.com/21
 
 엄윤주 - forEach, Map 차이 </br>
 김희산 - OOP (객체지향프로그램) </br> 
-정서린 - </br>
+정서린 - 이벤트 버블링과 캡쳐링</br>
 성치호 - Axios & Ajax 정의 </br>
 
 ## 3월 29일
