@@ -160,14 +160,14 @@ https://chihoya.tistory.com/21
 자바스크립트 비동기 처리, promise vs async/await 차이점 </br>
 https://velog.io/@yuni/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC</br>
 깊은 복사 & 얕은 복사</br>
-*</br>
+https://velog.io/@yuni/JS-%EA%B9%8A%EC%9D%80%EB%B3%B5%EC%82%AC-vs-%EC%96%95%EC%9D%80%EB%B3%B5%EC%82%AC</br>
 git<br>
-*
+https://www.notion.so/Git-c8d5d7628f344672ba943380191e472c
 </br>
 
 **김희산** </br>
 자바스크립트 비동기 처리, promise vs async/await 차이점, RESTful API, 깊은 복사 & 얕은 복사 </br>
-*
+https://substantial-eoraptor-be9.notion.site/3-24-c9e23b321e7e4f4f96372f36d5c50714
 </br>
 
 **정서린** </br>
