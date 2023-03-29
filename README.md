@@ -141,7 +141,7 @@ https://chihoya.tistory.com/21
 #### 27일 발표주제 발표
 
 김희산 - https://substantial-eoraptor-be9.notion.site/3-27-3e14dc31137844b9af31e9beaebb206f</br>
-정서린 -  </br>
+정서린 - https://accurate-baker-e9f.notion.site/0327_SPA-MPA-d281872021334331a587a03eb60af5fe </br>
 엄윤주 - https://velog.io/@yuni/WEB-Protocol </br>
 성치호 - https://chihoya.tistory.com/25 
 
@@ -172,7 +172,7 @@ https://substantial-eoraptor-be9.notion.site/3-24-c9e23b321e7e4f4f96372f36d5c507
 
 **정서린** </br>
 git, RESTful API, 깊은 복사 & 얕은 복사 </br>
-*
+https://accurate-baker-e9f.notion.site/0324_-0dd90b8c72dc49d78fe105a9eb2a287f
 </br>
 
 **성치호** </br>
