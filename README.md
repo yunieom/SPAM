@@ -199,7 +199,7 @@ https://chihoya.tistory.com/27
 
 **엄윤주** </br>
 SPA & MPA </br>
-* 
+https://velog.io/@yuni/WEB-SPA-VS-MPA
 </br>
 CORS </br>
 *
