@@ -199,11 +199,14 @@ https://chihoya.tistory.com/27
 
 **엄윤주** </br>
 SPA & MPA </br>
-* </br>
+* 
+</br>
 CORS </br>
-* </br>
+*
+</br>
 JWT </br>
-* </br>
+*
+</br>
 
 **김희산** </br>
 SPA & MPA, JWT,  웹 프로토콜 + get, post </br>
@@ -216,9 +219,11 @@ CORS, JWT,  웹 프로토콜 + get, post </br>
 
 **성치호** </br>
 SPA & MPA</br>
-* </br>
+* 
+</br>
 웹 프로토콜 + get, post </br>
-* </br>
+*
+</br>
 CORS </br>
 *
 
