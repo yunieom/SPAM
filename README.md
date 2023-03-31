@@ -202,10 +202,10 @@ SPA & MPA </br>
 https://velog.io/@yuni/WEB-SPA-VS-MPA
 </br>
 CORS </br>
-*
+https://early-flock-0c8.notion.site/CORS-09386e67d83e44cfbeaedcf9f9051f16
 </br>
 JWT </br>
-*
+https://early-flock-0c8.notion.site/JWT-7096b615d4574a9c88267eb8fe6d2d32
 </br>
 
 **김희산** </br>
