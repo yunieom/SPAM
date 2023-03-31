@@ -214,7 +214,7 @@ https://substantial-eoraptor-be9.notion.site/3-27-3e14dc31137844b9af31e9beaebb20
 
 **정서린** </br>
 CORS, JWT,  웹 프로토콜 + get, post </br>
-
+https://accurate-baker-e9f.notion.site/0327_-756a54c4ebf44caaa13ede07018d89ee
 </br>
 
 **성치호** </br>
