@@ -184,3 +184,49 @@ https://chihoya.tistory.com/26</br>
 RESTful API</br>
 https://chihoya.tistory.com/27
 </br>
+
+
+## 3월 31일
+
+#### 31일 발표주제 발표
+
+정서린 - https://accurate-baker-e9f.notion.site/0331_-a143941aea5746dc920d1af8c4186274 </br>
+엄윤주 - https://velog.io/@yuni/JS-forEach-vs-Map </br>
+성치호 - * </br>
+김희산 - https://substantial-eoraptor-be9.notion.site/3-31-00837313ec4c42709ab3a6ac33eb7573 </br>
+
+#### 3월 27일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
+
+**엄윤주** </br>
+SPA & MPA </br>
+* </br>
+CORS </br>
+* </br>
+JWT </br>
+* </br>
+
+**김희산** </br>
+SPA & MPA, JWT,  웹 프로토콜 + get, post </br>
+https://substantial-eoraptor-be9.notion.site/3-27-3e14dc31137844b9af31e9beaebb206f</br>
+
+**정서린** </br>
+CORS, JWT,  웹 프로토콜 + get, post </br>
+
+</br>
+
+**성치호** </br>
+SPA & MPA</br>
+* </br>
+웹 프로토콜 + get, post </br>
+* </br>
+CORS </br>
+*
+
+#### 4월 3일 발표 주제 선정
+
+정서린:  eventTarget, eventCurrentTarget / call(), apply(), bind() </br>
+엄윤주:  require와 import의 차이점 </br>
+김희산:  CSR과 SSR의 차이점 </br>
+성치호:  </br>
+
+</br>
