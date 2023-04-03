@@ -235,3 +235,20 @@ CORS </br>
 성치호:  </br>
 
 </br>
+
+## 4월 3일
+#### 3일 발표주제 발표
+
+김희산 - https://substantial-eoraptor-be9.notion.site/4-3-f009e4cd2c6248c4aa31b5b8100777e1 </br>
+성치호 - https://chihoya.tistory.com/28 </br>
+엄윤주 - https://velog.io/@yuni/JS-Require-vs-Import </br>
+
+
+#### 7일 발표 주제 선정
+
+엄윤주 - CSS - position, flex </br>
+김희산 - package.json에서 dependencies와 devDependencies </br>
+성치호 - 웹팩과 바벨 </br>
+정서린 -  eventTarget, eventCurrentTarget / call(), apply(), bind()  > 결석으로 재진행 
+
+</br>
