@@ -148,7 +148,7 @@ https://chihoya.tistory.com/21
 #### 31일 발표 주제 선정
 
 엄윤주 - forEach, Map 차이 </br>
-김희산 - OOP (객체지향프로그램) </br> 
+김희산 - OOP (객체지향프로그래밍) </br> 
 정서린 - 이벤트 버블링과 캡쳐링</br>
 성치호 - Axios & Ajax 정의 </br>
 
@@ -259,7 +259,7 @@ https://chihoya.tistory.com/32
 **엄윤주** </br>
 이벤트 버블링과 캡쳐링</br>
 https://velog.io/@yuni/JS-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B2%84%EB%B8%94%EB%A7%81-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%BA%A1%EC%B2%98%EB%A7%81</br>
-OOP (객체지향프로그램) </br> 
+OOP (객체지향프로그래밍) </br> 
  *
 </br>
 
@@ -269,7 +269,7 @@ https://substantial-eoraptor-be9.notion.site/3-31-00837313ec4c42709ab3a6ac33eb75
 </br>
 
 **정서린** </br>
-forEach, Map 차이, OOP (객체지향프로그램) </br>
+forEach, Map 차이, OOP (객체지향프로그래밍) </br>
  *
 </br>
 
@@ -277,7 +277,7 @@ forEach, Map 차이, OOP (객체지향프로그램) </br>
 forEach, Map 차이 </br> 
 * 
 </br>
-OOP (객체지향프로그램) </br>
+OOP (객체지향프로그래밍) </br>
 *
 </br>
 이벤트 버블링과 캡쳐링</br>
