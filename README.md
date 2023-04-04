@@ -256,8 +256,6 @@ https://chihoya.tistory.com/32
 ## 4월 5일
 #### 3월 31일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
 
-</br>
-
 **엄윤주** </br>
 이벤트 버블링과 캡쳐링</br>
 https://velog.io/@yuni/JS-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B2%84%EB%B8%94%EB%A7%81-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%BA%A1%EC%B2%98%EB%A7%81</br>
