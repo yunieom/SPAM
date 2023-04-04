@@ -252,6 +252,7 @@ https://chihoya.tistory.com/32
 정서린 -  eventTarget, eventCurrentTarget / call(), apply(), bind()  > 결석으로 재진행 
 
 </br>
+
 ## 4월 5일
 #### 3월 31일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
 
@@ -285,6 +286,6 @@ forEach, Map 차이 </br>
 OOP (객체지향프로그램) </br>
 *
 </br>
-이벤트 버블링과 캡쳐링I</br>
+이벤트 버블링과 캡쳐링</br>
 *
 </br>
