@@ -177,7 +177,7 @@ https://accurate-baker-e9f.notion.site/0324_-0dd90b8c72dc49d78fe105a9eb2a287f
 
 **성치호** </br>
 git <br>
-* 
+https://chihoya.tistory.com/29
 </br>
 자바스크립트 비동기 처리, promise vs async/await 차이점</br>
 https://chihoya.tistory.com/26</br>
@@ -219,13 +219,13 @@ https://accurate-baker-e9f.notion.site/0327_-756a54c4ebf44caaa13ede07018d89ee
 
 **성치호** </br>
 SPA & MPA</br>
-* 
+https://chihoya.tistory.com/31
 </br>
 웹 프로토콜 + get, post </br>
-*
+https://chihoya.tistory.com/31
 </br>
 CORS </br>
-*
+https://chihoya.tistory.com/32
 
 #### 4월 3일 발표 주제 선정
 
@@ -251,4 +251,40 @@ CORS </br>
 성치호 - 웹팩과 바벨 </br>
 정서린 -  eventTarget, eventCurrentTarget / call(), apply(), bind()  > 결석으로 재진행 
 
+</br>
+## 4월 5일
+#### 3월 31일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
+
+
+엄윤주 - forEach, Map 차이 </br>
+김희산 - OOP (객체지향프로그램) </br> 
+정서린 - 이벤트 버블링과 캡쳐링</br>
+
+
+**엄윤주** </br>
+이벤트 버블링과 캡쳐링</br>
+https://velog.io/@yuni/JS-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B2%84%EB%B8%94%EB%A7%81-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%BA%A1%EC%B2%98%EB%A7%81</br>
+OOP (객체지향프로그램) </br> 
+ *
+</br>
+
+**김희산** </br>
+forEach, Map 차이, 이벤트 버블링과 캡쳐링 </br>
+https://substantial-eoraptor-be9.notion.site/3-31-00837313ec4c42709ab3a6ac33eb7573
+</br>
+
+**정서린** </br>
+forEach, Map 차이, OOP (객체지향프로그램) </br>
+ *
+</br>
+
+**성치호** </br>
+forEach, Map 차이 </br> 
+* 
+</br>
+OOP (객체지향프로그램) </br>
+*
+</br>
+이벤트 버블링과 캡쳐링I</br>
+*
 </br>
