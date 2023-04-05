@@ -275,10 +275,10 @@ https://accurate-baker-e9f.notion.site/0331_-034ec802613a441b94fccf80b5ca183b
 
 **성치호** </br>
 forEach, Map 차이 </br> 
-* 
+https://chihoya.tistory.com/33
 </br>
 OOP (객체지향프로그래밍) </br>
-*
+https://chihoya.tistory.com/34
 </br>
 이벤트 버블링과 캡쳐링</br>
 *
