@@ -260,7 +260,7 @@ https://chihoya.tistory.com/32
 이벤트 버블링과 캡쳐링</br>
 https://velog.io/@yuni/JS-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B2%84%EB%B8%94%EB%A7%81-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%BA%A1%EC%B2%98%EB%A7%81</br>
 OOP (객체지향프로그래밍) </br> 
- *
+https://velog.io/@yuni/JS-OOP-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D
 </br>
 
 **김희산** </br>
@@ -281,5 +281,5 @@ OOP (객체지향프로그래밍) </br>
 https://chihoya.tistory.com/34
 </br>
 이벤트 버블링과 캡쳐링</br>
-*
+https://chihoya.tistory.com/35
 </br>
