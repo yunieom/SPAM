@@ -250,7 +250,6 @@ https://chihoya.tistory.com/32
 김희산 - package.json에서 dependencies와 devDependencies </br>
 성치호 - 웹팩과 바벨 </br>
 정서린 -  eventTarget, eventCurrentTarget / call(), apply(), bind()  > 결석으로 재진행 
-
 </br>
 
 ## 4월 5일
