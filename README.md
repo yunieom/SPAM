@@ -286,7 +286,7 @@ https://chihoya.tistory.com/35
 
 
 ## 4월 7일
-### 3일 발표주제 발표
+#### 3일 발표주제 발표
 
 정서린 - https://accurate-baker-e9f.notion.site/0403_call-apply-bind-90dae31f134a408e9c9be26a91ce6bb7 </br>
 엄윤주 - 파일로 제공 </br>
