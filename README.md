@@ -232,7 +232,7 @@ https://chihoya.tistory.com/32
 정서린:  eventTarget, eventCurrentTarget / call(), apply(), bind() </br>
 엄윤주:  require와 import의 차이점 </br>
 김희산:  CSR과 SSR의 차이점 </br>
-성치호:  </br>
+성치호:  Axios & Ajax 정의 </br>
 
 </br>
 
@@ -283,3 +283,48 @@ https://chihoya.tistory.com/34
 이벤트 버블링과 캡쳐링</br>
 https://chihoya.tistory.com/35
 </br>
+
+
+### 4월 7일
+
+#### 3일 발표주제 발표
+
+정서린 - https://accurate-baker-e9f.notion.site/0403_call-apply-bind-90dae31f134a408e9c9be26a91ce6bb7 </br>
+엄윤주 - 파일로 제공 </br>
+성치호 - https://chihoya.tistory.com/38 </br>
+김희산 - https://substantial-eoraptor-be9.notion.site/4-7-7e24b2d2318b4fbea3fb075cef352aec </br>
+
+#### 4월 3일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
+
+**엄윤주** </br>
+CSR과 SSR의 차이점 </br>
+https://velog.io/@yuni/WEB-CSR-SSR
+</br>
+Axios & Ajax 정의 </br>
+https://velog.io/@yuni/WEB-Ajax-Axios
+</br>
+
+**김희산** </br>
+Axios & Ajax 정의, require와 import의 차이점 </br>
+https://substantial-eoraptor-be9.notion.site/4-3-f009e4cd2c6248c4aa31b5b8100777e1</br>
+
+**정서린** </br>
+Axios & Ajax 정의, CSR과 SSR의 차이점, require와 import의 차이점 </br>
+
+</br>
+
+**성치호** </br>
+CSR과 SSR의 차이점 </br>
+https://chihoya.tistory.com/37
+</br>
+require와 import의 차이점 </br>
+https://chihoya.tistory.com/36
+</br>
+
+
+#### 4월 10일 발표 주제 선정
+
+정서린:  </br>
+엄윤주:  라이브러리와 프레임워크 </br>
+김희산:  </br>
+성치호:  </br>
