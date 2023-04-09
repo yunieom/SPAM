@@ -308,7 +308,7 @@ https://substantial-eoraptor-be9.notion.site/4-3-f009e4cd2c6248c4aa31b5b8100777e
 
 **정서린** </br>
 Axios & Ajax 정의, CSR과 SSR의 차이점, require와 import의 차이점 </br>
-
+https://accurate-baker-e9f.notion.site/0403_-b84c49f34baf4d3081cb6e667f2f76a5
 </br>
 
 **성치호** </br>
@@ -325,4 +325,4 @@ https://chihoya.tistory.com/36
 정서린:  </br>
 엄윤주:  라이브러리와 프레임워크 </br>
 김희산:  </br>
-성치호:  </br>
+성치호:  라우터</br>
