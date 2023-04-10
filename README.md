@@ -2,6 +2,7 @@
 스터디 패밀리의 줄임말로 프론트엔드 개발자라면 알아야 될 내용들을 공부합니다.</br>
 자료는 날짜별로 계속 업데이트 됩니다.</br>
 팀원: 김희산, 성치호, 엄윤주, 정서린
+활동기간: 2023년 3월 13일 ~ 2023년 4월 13일
 
 </br>
 
@@ -326,3 +327,45 @@ https://chihoya.tistory.com/36
 엄윤주:  라이브러리와 프레임워크 </br>
 김희산:  JS 메모리관리 </br>
 성치호:  라우터 </br>
+
+## 4월 10일
+
+#### 7일 발표주제 발표
+
+정서린 - https://accurate-baker-e9f.notion.site/0410_HTTP-HTTPS-ead4d0ff02b24cc484216ab01ad22324 </br>
+엄윤주 - https://velog.io/@yuni/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC </br>
+성치호 - https://chihoya.tistory.com/39 </br>
+김희산 - https://substantial-eoraptor-be9.notion.site/4-10-5a6bf94ac8554f65914687ab0ac1904e </br>
+
+
+## 4월 12일
+#### 4월 7일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
+
+**엄윤주** </br>
+package.json에서 dependencies와 devDependencies</br>
+ * </br>
+웹팩과 바벨 </br> 
+* </br>
+eventTarget, eventCurrentTarget / call(), apply(), bind() </br> 
+* </br>
+
+**김희산** </br>
+웹팩과 바벨, CSS position(flex), eventCurrentTarget과 call(), apply(), bind() </br>
+ * 
+</br>
+
+**정서린** </br>
+웹팩과 바벨, CSS position(flex), package.json에서 dependencies와 devDependencies</br>
+ *
+</br>
+
+**성치호** </br>
+CSS position(flex) </br> 
+ *
+</br>
+package.json에서 dependencies와 devDependencies </br>
+* 
+</br>
+eventCurrentTarget과 call(), apply(), bind() </br>
+ *
+</br>
