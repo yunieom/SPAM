@@ -153,6 +153,8 @@ https://chihoya.tistory.com/21
 정서린 - 이벤트 버블링과 캡쳐링</br>
 성치호 - Axios & Ajax 정의 </br>
 
+</br>
+
 ## 3월 29일
 #### 3월 24일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
  
@@ -186,6 +188,7 @@ RESTful API</br>
 https://chihoya.tistory.com/27
 </br>
 
+</br>
 
 ## 3월 31일
 
@@ -252,6 +255,7 @@ https://chihoya.tistory.com/32
 성치호 - 웹팩과 바벨 </br>
 정서린 -  eventTarget, eventCurrentTarget / call(), apply(), bind()  > 결석으로 재진행 
 </br>
+</br>
 
 ## 4월 5일
 #### 3월 31일 발표 조원들에게 공유받은 자료를 바탕으로 한 개별 스터디 제출
@@ -283,7 +287,7 @@ https://chihoya.tistory.com/34
 이벤트 버블링과 캡쳐링</br>
 https://chihoya.tistory.com/35
 </br>
-
+</br>
 
 ## 4월 7일
 #### 3일 발표주제 발표
@@ -327,6 +331,8 @@ https://chihoya.tistory.com/36
 엄윤주:  라이브러리와 프레임워크 </br>
 김희산:  JS 메모리관리 </br>
 성치호:  라우터 </br>
+
+</br>
 
 ## 4월 10일
 
