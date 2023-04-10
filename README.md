@@ -349,11 +349,14 @@ https://chihoya.tistory.com/36
 
 **엄윤주** </br>
 package.json에서 dependencies와 devDependencies</br>
- * </br>
+ * 
+</br>
 웹팩과 바벨 </br> 
-* </br>
+ * 
+</br>
 eventTarget, eventCurrentTarget / call(), apply(), bind() </br> 
-* </br>
+ * 
+</br>
 
 **김희산** </br>
 웹팩과 바벨, CSS position(flex), eventCurrentTarget과 call(), apply(), bind() </br>
