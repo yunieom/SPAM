@@ -366,7 +366,7 @@ eventTarget, eventCurrentTarget / call(), apply(), bind() </br>
 
 **정서린** </br>
 웹팩과 바벨, CSS position(flex), package.json에서 dependencies와 devDependencies</br>
- *
+https://accurate-baker-e9f.notion.site/0407_-429cbf80f57b4b2c932013d45f4c0690
 </br>
 
 **성치호** </br>
