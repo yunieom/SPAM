@@ -114,6 +114,7 @@ https://velog.io/@yuni/JS-this</br>
 https://velog.io/@yuni/WEB-Browser-Rendering-Process</br>
 
 **김희산** </br>
+this. 브라우저 저장소, 실행컨텍스트</br>
 https://substantial-eoraptor-be9.notion.site/3-20-904d3fdf58844702ad43bfc96c817cde</br>
 
 **정서린** </br>
@@ -352,7 +353,7 @@ package.json에서 dependencies와 devDependencies</br>
  * 
 </br>
 웹팩과 바벨 </br> 
- * 
+https://velog.io/@yuni/Webpack-Babel
 </br>
 eventTarget, eventCurrentTarget / call(), apply(), bind() </br> 
  * 
