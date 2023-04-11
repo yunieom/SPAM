@@ -378,6 +378,9 @@ CSS position(flex) </br>
 package.json에서 dependencies와 devDependencies </br>
 * 
 </br>
-eventCurrentTarget과 call(), apply(), bind() </br>
+eventCurrentTarget</br>
  *
+</br>
+call(), apply(), bind() </br>
+https://chihoya.tistory.com/40
 </br>
