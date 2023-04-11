@@ -350,18 +350,20 @@ https://chihoya.tistory.com/36
 
 **엄윤주** </br>
 package.json에서 dependencies와 devDependencies</br>
- * 
+https://early-flock-0c8.notion.site/npm-9bcb392cacfa4e7b9ed5f2fadf77480a
 </br>
 웹팩과 바벨 </br> 
 https://velog.io/@yuni/Webpack-Babel
 </br>
-eventTarget, eventCurrentTarget / call(), apply(), bind() </br> 
- * 
+eventTarget, eventCurrentTarget</br>
+https://velog.io/@yuni/event.currentTarget-eventTarget</br>
+call(), apply(), bind() </br> 
+https://velog.io/@yuni/JS-call-bind-apply
 </br>
 
 **김희산** </br>
 웹팩과 바벨, CSS position(flex), eventCurrentTarget과 call(), apply(), bind() </br>
- * 
+https://substantial-eoraptor-be9.notion.site/4-7-7e24b2d2318b4fbea3fb075cef352aec
 </br>
 
 **정서린** </br>
