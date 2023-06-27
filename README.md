@@ -397,7 +397,7 @@ https://chihoya.tistory.com/40
 ## 6월 27일
 #### 발표주제 발표
 
-엄윤주 - https://velog.io/@yuni/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EA%B3%BC-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-JWT)</br>
+엄윤주 - https://velog.io/@yuni/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EA%B3%BC-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-JWT</br>
 김희산 - "" </br>
 
 #### 6월 30일 발표 주제 선정
