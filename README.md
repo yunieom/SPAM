@@ -1,8 +1,15 @@
 # SPAM
 스터디 패밀리의 줄임말로 프론트엔드 개발자라면 알아야 될 내용들을 공부합니다.</br>
 자료는 날짜별로 계속 업데이트 됩니다.</br>
-팀원: 김희산, 성치호, 엄윤주, 정서린
+팀원: 김희산, 성치호, 엄윤주, 정서린 </br>
 활동기간: 2023년 3월 13일 ~ 2023년 4월 13일
+
+# SPAM v.2
+스터디 패밀리의 줄임말로 웹 개발자라면 알아야 될 내용들을 공부하고, 알고리즘 문제 풀이를 공유합니다.</br>
+자료는 날짜별로 계속 업데이트 됩니다.</br>
+팀원: 김희산, 엄윤주 </br>
+활동기간: 2023년 6월 27일 ~ 
+
 
 </br>
 
@@ -384,3 +391,35 @@ eventCurrentTarget</br>
 call(), apply(), bind() </br>
 https://chihoya.tistory.com/40
 </br>
+
+</br>
+
+## 6월 27일
+#### 발표주제 발표
+
+엄윤주 - https://velog.io/@yuni/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EA%B3%BC-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-JWT)</br>
+김희산 - "" </br>
+
+#### 6월 30일 발표 주제 선정
+
+엄윤주:  토큰을 쿠키에 담는 이유 </br>
+김희산:  DAO, DTO </br>
+
+#### 6월 마지막 주 알고리즘
+
+Lv2 </br>
+귤고르기
+https://school.programmers.co.kr/learn/courses/30/lessons/138476 </br>
+카펫
+https://school.programmers.co.kr/learn/courses/30/lessons/42842 </br>
+
+Lv1 </br>
+기사단원의 무기
+https://school.programmers.co.kr/learn/courses/30/lessons/136798 </br>
+명예의전당
+https://school.programmers.co.kr/learn/courses/30/lessons/138477 </br>
+가장가까운같은글자
+https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
+
+
+
