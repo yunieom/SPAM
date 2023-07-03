@@ -422,7 +422,8 @@ https://school.programmers.co.kr/learn/courses/30/lessons/138477 </br>
 https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 
-#### 6월 30일 
+
+## 6월 30일 
 #### 발표주제 발표
 
 엄윤주:  [토큰을 쿠키에 담는 이유](https://velog.io/@yuni/%EC%BF%A0%ED%82%A4%EB%A1%9C-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) </br>
