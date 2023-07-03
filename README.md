@@ -419,7 +419,30 @@ https://school.programmers.co.kr/learn/courses/30/lessons/136798 </br>
 명예의전당
 https://school.programmers.co.kr/learn/courses/30/lessons/138477 </br>
 가장가까운같은글자
-https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 
+#### 6월 30일 
+#### 발표주제 발표
+
+엄윤주:  [토큰을 쿠키에 담는 이유](https://velog.io/@yuni/%EC%BF%A0%ED%82%A4%EB%A1%9C-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) </br>
+
+#### 6월 마지막 주 알고리즘 풀이
+엄윤주:
+1. [가장 가까운 같은 글자](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90) </br>
+2. [기사단원의 무기](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98-%EB%AC%B4%EA%B8%B0) </br>
+3. [명예의 전당(1)](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91) </br>
+
+
+#### 7월 1주차 공부 주제 & 알고리즘 선정
+
+엄윤주: 
+
+공부 주제
+- http와 https 그리고 TLS/SSL HandShake
+- oAuth</br>
+
+알고리즘
+- 추억점수 Lv.1 
+- 로또의 최고 순위와 최저 순위 Lv.1
+- 부족한 금액 계산하기 Lv.1
 
