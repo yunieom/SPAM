@@ -17,8 +17,8 @@
 ## 3월 13일
 #### 규칙
 
-1. **발표 못하면 컨텐츠라도 공유  (월요일 미발표시 -> 수요일제출/ 금요일 미발표시 -> 일요일제출)**
-2. **5분 미만 지각시 1000원 10분 미만 지각시 3000원 10분 이상 지각/결석시 5000원**
+1. **발표 못하면 컨텐츠라도 공유 (월요일 미발표시 -> 수요일제출/ 금요일 미발표시 -> 일요일제출)**
+2. **5분 미만 지각시 1000원10분 미만 지각시 3000원10분 이상 지각/결석시 5000원**
 3. ****자신이 발표한 주제의 자료는 공유하며, 각자가 자신이 발표한 주제 제외 공유받은 자료로 다시 공부하고 정리한 파일(링크)을 공유</br> 
 월요일 발표주제 -> 금요일까지 재공유/ 금요일 발표주제 -> 월요일까지 재공유****
 
@@ -41,7 +41,7 @@
 정서린 - PPT </br>
 엄윤주 - https://velog.io/@yuni/JS-Closure-%ED%81%B4%EB%A1%9C%EC%A0%80 </br>
 성치호 - https://chihoya.tistory.com/14 </br>
-김희산 - https://substantial-eoraptor-be9.notion.site/e578f2657d5d4310934cd6d7cd699eff </br>
+김희산 -https://substantial-eoraptor-be9.notion.site/e578f2657d5d4310934cd6d7cd699eff </br>
 
 #### 20일 발표 주제 선정
 
@@ -426,18 +426,25 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 ## 6월 30일 
 ### 공부주제 발표
 
-엄윤주:  [토큰을 쿠키에 담는 이유](https://velog.io/@yuni/%EC%BF%A0%ED%82%A4%EB%A1%9C-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) </br>
-
+엄윤주: [토큰을 쿠키에 담는 이유](https://velog.io/@yuni/%EC%BF%A0%ED%82%A4%EB%A1%9C-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) </br>
+김희산: [MySQL에서 반환되는 데이터(+ Entity,DTO)](https://velog.io/@hmesan_93/MySQL%EC%97%90%EC%84%9C-%EB%B0%98%ED%99%98%EB%90%98%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-EntityDTO)</br>
 ### 6월 마지막 주 알고리즘 풀이
 엄윤주:
 1. [가장 가까운 같은 글자](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90) </br>
 2. [기사단원의 무기](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98-%EB%AC%B4%EA%B8%B0) </br>
-3. [명예의 전당(1)](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91) </br>
+3. [명예의 전당(1)](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91) 
 
+김희산:
+1. [가장 가까운 같은 글자](https://velog.io/@hmesan_93/Programmers-lv.1-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90)</br>
+2. [기사단원의 무기](https://velog.io/@hmesan_93/Programmers-lv.1-%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98-%EB%AC%B4%EA%B8%B0JS)<br>
+3. [명예의 전당(1)](https://velog.io/@hmesan_93/Programmers-lv.1-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91JS)</br>
+4. [귤 고르기](https://velog.io/@hmesan_93/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)</br>
+5. [카펫](https://velog.io/@hmesan_93/Programmers-lv.2-%EC%B9%B4%ED%8E%AB%EC%99%84%EC%A0%84%ED%83%90%EC%83%89JS)
 
 ### 7월 1주차 공부 주제 & 알고리즘 선정
 
-엄윤주: 
+엄윤주:
+김희산:
 
 공부 주제
 - http와 https 그리고 TLS/SSL HandShake
