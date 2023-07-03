@@ -432,7 +432,8 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 엄윤주:
 1. [가장 가까운 같은 글자](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90) </br>
 2. [기사단원의 무기](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98-%EB%AC%B4%EA%B8%B0) </br>
-3. [명예의 전당(1)](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91) 
+3. [명예의 전당(1)](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91) </br>
+4. [카펫](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.2-%EC%B9%B4%ED%8E%AB) </br>
 
 김희산:
 1. [가장 가까운 같은 글자](https://velog.io/@hmesan_93/Programmers-lv.1-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90)</br>
