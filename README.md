@@ -458,3 +458,11 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
   
 </br>
 김희산:
+
+공부 주제
+- express + AWS EC2 이용해서 서버 배포하기</br>
+
+알고리즘
+- 추억점수 Lv.1
+- 로또의 최고 순위와 최저 순위 Lv.1
+- 부족한 금액 계산하기 Lv.1
