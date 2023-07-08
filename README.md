@@ -461,8 +461,25 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 공부 주제
 - express + AWS EC2 이용해서 서버 배포하기</br>
+- 인터넷 네트워크 기초 지식</br>
 
 알고리즘
 - 추억점수 Lv.1
 - 로또의 최고 순위와 최저 순위 Lv.1
 - 부족한 금액 계산하기 Lv.1
+
+</br>
+
+## 7월 7일
+### 7월 1주차 공부주제 발표
+엄윤주:
+</br>
+김희산:
+1. [express + AWS EC2 이용해서 서버 배포하기](https://velog.io/@hmesan_93/express-AWS-EC2-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)</br>
+2. [인터넷 네트워크 기초 지식](https://velog.io/@hmesan_93/%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88-%EC%A7%80%EC%8B%9D)</br>
+
+### 7월 1주차 알고리즘 풀이
+엄윤주:
+김희산:
+
+
