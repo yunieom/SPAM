@@ -492,7 +492,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 ### 7월 1주차 알고리즘 풀이
 
 엄윤주:
-1. [추억점수 Lv.1](https://velog.io/@yuni/%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B8%88%EC%95%A1-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) </br>
+1. [부족한 금액 계산하기 Lv.1](https://velog.io/@yuni/%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B8%88%EC%95%A1-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) </br>
 2. 
 3.
 </br>
