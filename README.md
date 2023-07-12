@@ -492,6 +492,9 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 ### 7월 1주차 알고리즘 풀이
 
 엄윤주:
+1. [추억점수 Lv.1](https://velog.io/@yuni/%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B8%88%EC%95%A1-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) </br>
+2. 
+3.
 </br>
 김희산:
 
@@ -505,14 +508,14 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 공부 주제
 
--
--
+- http와 https 그리고 TLS/SSL HandShake
+- oAuth</br>
 
 알고리즘
 
--
--
--
+- 최소직사각형 Lv.1
+- 콜라 문제 Lv.1
+- 다음 큰 숫자 Lv.2
 
 </br>
 김희산:
