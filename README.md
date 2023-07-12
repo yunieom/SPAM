@@ -493,7 +493,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 엄윤주:
 1. [부족한 금액 계산하기 Lv.1](https://velog.io/@yuni/%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B8%88%EC%95%A1-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) </br>
-2. 
+2. [추억점수 Lv.1](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EC%B6%94%EC%96%B5%EC%A0%90%EC%88%98)</br>
 3.
 </br>
 김희산:
@@ -536,3 +536,27 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 -
 
 </br>
+
+## 7월 14일
+
+### 7월 2주차 공부주제 발표
+
+엄윤주:
+</br>
+김희산:
+</br>
+
+### 7월 2주차 알고리즘 풀이
+
+엄윤주:
+1. [콜라문제 Lv.1](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EC%BD%9C%EB%9D%BC%EB%AC%B8%EC%A0%9C) </br>
+2. 
+3.
+</br>
+김희산:
+
+1. [추억점수 Lv.1](https://velog.io/@hmesan_93/Programmers-lv.1-%EC%B6%94%EC%96%B5%EC%A0%90%EC%88%98JS)</br>
+2. [로또의 최고 순위와 최저 순위 Lv.1](https://velog.io/@hmesan_93/Programmers-lv.1-%EB%A1%9C%EB%98%90%EC%9D%98-%EC%B5%9C%EA%B3%A0-%EC%88%9C%EC%9C%84%EC%99%80-%EC%B5%9C%EC%A0%80-%EC%88%9C%EC%9C%84JS)</br>
+3. [부족한 금액 계산하기 Lv.1](https://velog.io/@hmesan_93/Programmers-lv.1-%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B8%88%EC%95%A1-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0JS)</br>
+
+
