@@ -502,6 +502,10 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 2. [로또의 최고 순위와 최저 순위 Lv.1](https://velog.io/@hmesan_93/Programmers-lv.1-%EB%A1%9C%EB%98%90%EC%9D%98-%EC%B5%9C%EA%B3%A0-%EC%88%9C%EC%9C%84%EC%99%80-%EC%B5%9C%EC%A0%80-%EC%88%9C%EC%9C%84JS)</br>
 3. [부족한 금액 계산하기 Lv.1](https://velog.io/@hmesan_93/Programmers-lv.1-%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B8%88%EC%95%A1-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0JS)</br>
 
+<br>
+
+## 7월 10일
+
 ### 7월 2주차 공부 주제 & 알고리즘 선정
 
 엄윤주:
