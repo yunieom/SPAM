@@ -526,14 +526,14 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 공부 주제
 
--
--
+- Dart 언어의 기초 문법
+- Controller, Providers 개념 in NestJS
 
 알고리즘
 
--
--
--
+- 콜라 문제 Lv.1
+- 푸드 파이트 대회 Lv.1
+- 다음 큰 숫자 Lv.2
 
 </br>
 
