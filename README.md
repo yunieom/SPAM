@@ -454,7 +454,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 공부 주제
 
 - http와 https 그리고 TLS/SSL HandShake
-- oAuth</br>
+- OAuth</br>
 
 알고리즘
 
@@ -483,6 +483,9 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 ### 7월 1주차 공부주제 발표
 
 엄윤주:
+
+1.  [WEB - What is OAuth2.0?](https://velog.io/@yuni/OAuth-2.0-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)</br>
+2. 
 </br>
 김희산:
 
@@ -542,6 +545,9 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 ### 7월 2주차 공부주제 발표
 
 엄윤주:
+
+1. [WEB - What is OAuth2.0?](https://velog.io/@yuni/OAuth-2.0-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)</br>
+2.
 </br>
 김희산:
 </br>
