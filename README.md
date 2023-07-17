@@ -484,8 +484,8 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 엄윤주:
 
-1.  [WEB - What is OAuth2.0?](https://velog.io/@yuni/OAuth-2.0-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)</br>
-2. 
+1. [WEB - What is OAuth2.0?](https://velog.io/@yuni/OAuth-2.0-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)</br>
+2. [TLS & SSL 그리고 Handshake](https://velog.io/@yuni/WEB-TLS-SSL-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Handshake)
 </br>
 김희산:
 
@@ -547,7 +547,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 엄윤주:
 
 1. [WEB - What is OAuth2.0?](https://velog.io/@yuni/OAuth-2.0-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)</br>
-2.
+2. [TLS & SSL 그리고 Handshake](https://velog.io/@yuni/WEB-TLS-SSL-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Handshake)
 </br>
 김희산:
 </br>
