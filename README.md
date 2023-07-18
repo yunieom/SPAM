@@ -565,4 +565,20 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 2. </br>
 3. </br>
 
+## 7월 17일
 
+### 7월 3주차 공부 주제 & 알고리즘 선정
+
+엄윤주:
+
+공부 주제
+
+- callback 함수와 callback hell
+- Promise
+- Async/await
+- SQL, NoSQL 각각의 특징과 장,단점
+
+알고리즘
+
+- 최댓값과 최솟값 Lv.2
+- 영어 끝말잇기 Lv.2
