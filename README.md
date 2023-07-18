@@ -557,7 +557,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 엄윤주:
 1. [콜라문제 Lv.1](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EC%BD%9C%EB%9D%BC%EB%AC%B8%EC%A0%9C) </br>
 2. [최소직사각형 Lv.1](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.1-%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95) </br>
-3.
+3. [다음 큰 숫자 Lv.2](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.2-%EB%8B%A4%EC%9D%8C-%ED%81%B0-%EC%88%AB%EC%9E%90)
 </br>
 김희산:
 
