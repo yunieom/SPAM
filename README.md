@@ -582,3 +582,28 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 - 최댓값과 최솟값 Lv.2
 - 영어 끝말잇기 Lv.2
+
+
+</br>
+
+## 7월 23일
+
+### 7월 3주차 공부주제 발표
+
+엄윤주:
+
+1. </br>
+2. </br>
+
+</br>
+
+
+### 7월 2주차 알고리즘 풀이
+
+엄윤주:
+1. [최댓값과 최솟값 Lv.2](https://velog.io/@yuni/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.2-%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC-%EC%B5%9C%EC%86%9F%EA%B0%92) </br>
+2.  </br>
+
+</br>
+
+
