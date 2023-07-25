@@ -607,7 +607,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 </br>
 
 
-## 7월 17일
+## 7월 24일
 
 ### 7월 4주차 공부 주제 & 알고리즘 선정
 
