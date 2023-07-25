@@ -607,3 +607,21 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 </br>
 
 
+## 7월 17일
+
+### 7월 3주차 공부 주제 & 알고리즘 선정
+
+엄윤주:
+
+공부 주제
+
+- RESTfulAPI 다시 복습 
+- 리눅스 기초 50개 명령어
+- 스택 & 큐(자료구조)
+
+
+알고리즘
+
+- Roman to Integer 
+- Minimum Sum of Four Digit Number After Splitting Digits
+
