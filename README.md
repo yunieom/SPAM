@@ -593,7 +593,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 엄윤주:
 
 1. [Callback 함수와 Callback hell](https://velog.io/@yuni/JS-Callback-%ED%95%A8%EC%88%98%EC%99%80-Callback-hell)</br>
-2. </br>
+2. [Promise](https://velog.io/@yuni/JS-Promise-wjrcditx) </br>
 
 </br>
 
