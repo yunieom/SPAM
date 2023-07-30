@@ -576,7 +576,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 - callback 함수와 callback hell
 - Promise
 - Async/await
-- SQL, NoSQL 각각의 특징과 장,단점
+- WEB 3.0
 
 알고리즘
 
@@ -594,6 +594,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 1. [Callback 함수와 Callback hell](https://velog.io/@yuni/JS-Callback-%ED%95%A8%EC%88%98%EC%99%80-Callback-hell)</br>
 2. [Promise](https://velog.io/@yuni/JS-Promise-wjrcditx) </br>
+3. [WEB 3.0](https://velog.io/@yuni/Web-3.0)
 
 </br>
 
@@ -624,4 +625,28 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 - Roman to Integer 
 - Minimum Sum of Four Digit Number After Splitting Digits
+
+</br>
+
+## 7월 30일
+
+### 7월 4주차 공부주제 발표
+
+엄윤주:
+
+1. [리눅스 기초 50개 명령어](https://velog.io/@yuni/TIL-50-Basic-Linux-Commands)</br>
+2. </br>
+3. 
+
+</br>
+
+
+### 7월 3주차 알고리즘 풀이
+
+엄윤주:
+1. [Roman to Integer](https://velog.io/@yuni/Leetcode-Roman-to-Integer) </br>
+2.  </br>
+
+</br>
+
 
