@@ -641,7 +641,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 </br>
 
 
-### 7월 3주차 알고리즘 풀이
+### 7월 4주차 알고리즘 풀이
 
 엄윤주:
 1. [Roman to Integer](https://velog.io/@yuni/Leetcode-Roman-to-Integer) </br>
@@ -649,4 +649,24 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 </br>
 
+
+## 8월 7일
+
+### 8월 1주차 공부 주제 & 알고리즘 선정
+
+엄윤주:
+
+공부 주제
+
+- SQL 기본쿼리 (SELECT, INSERT, DELETE, UPDATE, ALTER, CREATE, DROP)
+- SQL 관계모델링
+- SQL 조인 
+
+
+알고리즘
+
+- To Be Or Not To Be
+- Is Object Empty
+- Combine Two Tables
+- Customers Who Never Order
 
