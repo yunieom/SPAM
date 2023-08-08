@@ -652,7 +652,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 ## 8월 7일
 
-### 8월 1주차 공부 주제 & 알고리즘 선정
+### 8월 2주차 공부 주제 & 알고리즘 선정
 
 엄윤주:
 
