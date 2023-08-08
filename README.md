@@ -645,7 +645,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 엄윤주:
 1. [Roman to Integer](https://velog.io/@yuni/Leetcode-Roman-to-Integer) </br>
-2.  </br>
+2. [Minimum Sum of Four Digit Number After Splitting Digits](https://velog.io/@yuni/Leetcode-Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits) </br>
 
 </br>
 
