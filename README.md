@@ -670,6 +670,8 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 - Combine Two Tables
 - Customers Who Never Order
 
+</br>
+
 
 ## 8월 13일
 
