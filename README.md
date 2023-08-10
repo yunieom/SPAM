@@ -684,7 +684,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 </br>
 
 
-### 7월 4주차 알고리즘 풀이
+### 8월 2주차 알고리즘 풀이
 
 엄윤주:
 1. [To Be Or Not To Be](https://velog.io/@yuni/Leetcode-To-Be-Or-Not-To-Be) </br>
