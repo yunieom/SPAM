@@ -670,3 +670,23 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 - Combine Two Tables
 - Customers Who Never Order
 
+
+## 8월 13일
+
+### 8월 2주차 공부주제 발표
+
+엄윤주:
+
+1. </br>
+2. </br>
+3. </br>
+
+</br>
+
+
+### 7월 4주차 알고리즘 풀이
+
+엄윤주:
+1. [To Be Or Not To Be](https://velog.io/@yuni/Leetcode-To-Be-Or-Not-To-Be) </br>
+2. </br>
+
