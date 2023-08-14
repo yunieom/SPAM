@@ -679,7 +679,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 엄윤주:
 
-1. </br>
+1. [SQL 관계모델링](https://velog.io/@yuni/SQLD-%EA%B3%BC%EB%AA%A9-1.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4) </br>
 2. </br>
 3. </br>
 
