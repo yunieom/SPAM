@@ -690,5 +690,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 
 엄윤주:
 1. [To Be Or Not To Be](https://velog.io/@yuni/Leetcode-To-Be-Or-Not-To-Be) </br>
-2. </br>
+2. [Combine Two Tables]()</br>
 
