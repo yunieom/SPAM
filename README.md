@@ -692,3 +692,16 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086 </br>
 1. [To Be Or Not To Be](https://velog.io/@yuni/Leetcode-To-Be-Or-Not-To-Be) </br>
 2. [Combine Two Tables]()</br>
 
+</br>
+
+
+## 10월 2일
+
+### 10월 1주차 공부 주제 & 알고리즘 선정
+
+엄윤주:
+
+공부 주제
+
+- 이진트리
+- 이진탐색트리
